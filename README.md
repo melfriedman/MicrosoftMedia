@@ -26,7 +26,7 @@ Data sets were filtered to only the last 5 years to get a current representation
 # Findings
 We compared runtime to ratings scores and the amount of ratings. We wanted to see if the length of the movie had any effect on how it was liked and how many people not only watched but voted on it.
 Through our analysis we were able to show that movies that were between 150 to 175 minutes had high scores that had above average amount of votes. Showing that these were good movies seen by a large audience
-
+https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures%20for%20readme/Runtime%20vs%20ratings.png?raw=true
 
 
 We looked at what month did movies make the most profit in. By comparing the profit by month with the average median and standard deviation we could see that July was the clear winner. It was in the top for both average and median making it a top performer but also in the bottom half of standard deviation meaning those high profits are a normal tendency
