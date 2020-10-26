@@ -30,6 +30,9 @@ Through our analysis we were able to show that movies that were between 150 to 1
 
 
 We looked at what month did movies make the most profit in. By comparing the profit by month with the average median and standard deviation we could see that July was the clear winner. It was in the top for both average and median making it a top performer but also in the bottom half of standard deviation meaning those high profits are a normal tendency
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures%20for%20readme/Profit%20vs%20Month.png)
 
 
+Profit vs Genre was a question that intrigued us but as we analyzed the data we saw that yes some genres had the potential to earn profits at magnitudes higher than other genres the large Standard deviation also showed they could flop even harder.
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures%20for%20readme/Profit%20vs%20Genre.png)
 
