@@ -44,5 +44,5 @@ Lastly, we wanted to know where movies were made and if a certain location produ
 
 With these findings we believe that we have the data Microsoft would need to get started on creating their film studio and produce quality, high grossing movies that also have a high profit return.
 
-![alt text]https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/popcorn.jpg ![alt text]https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/stonks.jpg
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/popcorn.jpg) ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/stonks.jpg)
 
