@@ -1,3 +1,5 @@
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/film.jpg)
+
 # MicrosoftMedia
 Flatiron online Data Science phase 1 project
 
