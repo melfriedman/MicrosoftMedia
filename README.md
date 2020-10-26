@@ -40,5 +40,9 @@ When going into the financial details we also wondered if the movies that had th
 ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/grossprofit.png) ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/profitreturn.png)
 
 Lastly, we wanted to know where movies were made and if a certain location produced higher grossing movies. ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/world%20map.png) all the filming locations recorded
-(https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/heatmap.png) heatmap of where the movies with the highest return ratio were filmed
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/heatmap.png) heatmap of where the movies with the highest return ratio were filmed
+
+With these findings we believe that we have the data Microsoft would need to get started on creating their film studio and produce quality, high grossing movies that also have a high profit return.
+
+![alt text]https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/popcorn.jpg ![alt text]https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures/stonks.jpg
 
