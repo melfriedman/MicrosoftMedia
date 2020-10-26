@@ -36,3 +36,7 @@ We looked at what month did movies make the most profit in. By comparing the pro
 Profit vs Genre was a question that intrigued us but as we analyzed the data we saw that yes some genres had the potential to earn profits at magnitudes higher than other genres the large Standard deviation also showed they could flop even harder.
 ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/pictures%20for%20readme/Profit%20vs%20Genre.png)
 
+When going into the financial details we also wondered if the movies that had the highest world wide gross were also the movies with the highest return ratio. We found that this was not the case and the top 10 movies in either category had no overlap. This showed us that a movie that had a smaller budget may have made many more times that in gross profit, but still not nearly as much as some of the big blockbuster movies that had a higher budget.
+![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/grossprofit.png) ![alt text](https://github.com/melfriedman/MicrosoftMedia/blob/main/visualizations/profitreturn.png)
+
+Lastly, we wanted to know where movies were made and if a certain location produced higher grossing movies. 
